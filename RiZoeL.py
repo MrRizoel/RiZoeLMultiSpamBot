@@ -375,7 +375,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("Succesfully Joined")
+                await event.edit("JOIN HOGYAA AB ? KISIKI MAARU ")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -429,7 +429,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("Succesfully Left")
+                await event.edit("NIKAL GYAA BC ME")
             except Exception as e:
                 await event.edit(str(e))   
         else:
