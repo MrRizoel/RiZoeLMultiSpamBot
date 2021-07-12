@@ -9,8 +9,8 @@
 
 You can Use these API ID and API HASH
 
-API ID = 4014305
-API HASH = b0cb9e17b2b8bcde3be7161c8bfa6013
+• API ID = 4014305
+• API HASH = b0cb9e17b2b8bcde3be7161c8bfa6013
 
 ### String Session
 No Requirement of API ID and API HASH
