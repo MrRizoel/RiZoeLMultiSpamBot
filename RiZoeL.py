@@ -47,7 +47,7 @@ SMEX_USERS = []
 for x in SUDO:
     SMEX_USERS.append(x)
     
-async def start_yukki():
+async def start_rizoel():
     global idk
     global ydk
     global wdk
@@ -311,7 +311,7 @@ async def start_yukki():
             pass 
 
 loop = asyncio.get_event_loop()
-loop.run_until_complete(start_yukki())       
+loop.run_until_complete(start_rizoel())       
 
 async def gifspam(e, smex):
     try:
@@ -463,7 +463,7 @@ async def spam(e):
                 return await e.reply(error, parse_mode=None, link_preview=None )
             await asyncio.wait([e.respond(message) for i in range(counter)])
         elif e.reply_to_msg_id and smex.media:  
-            counter = int(yukki[0])
+            counter = int(rizoel[0])
             if counter > 100:
                 return await e.reply(error, parse_mode=None, link_preview=None )
             for _ in range(counter):
