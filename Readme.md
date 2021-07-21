@@ -4,6 +4,8 @@
   <img src="https://telegra.ph/file/98f3e01fcb05d98373cfc.jpg">
 </p>
 
+# ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ 
+# Deploy Up to 25 Bots in One time 🔥
 ## 🚀 Deploy on Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FMrRizoel%2FRiZoeLMultiSpamBot)
 
