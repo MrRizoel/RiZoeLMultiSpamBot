@@ -4,13 +4,13 @@
   "logo": "https://telegra.ph/file/98f3e01fcb05d98373cfc.jpg",
     "env": {
      "API_ID": {
-        "description": "Telethon String Session",
-        "value": "",
+        "description": "Api ID",
+        "value": "4014305",
         "required": true
       },
       "API_HASH": {
         "description": "Api Hash",
-        "value": "",
+        "value": "b0cb9e17b2b8bcde3be7161c8bfa6013",
         "required": true
       },
       "SUDO": {
