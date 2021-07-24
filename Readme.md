@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://telegra.ph/file/98f3e01fcb05d98373cfc.jpg">
 </p>
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/MrRizoel/RiZoeLMultiSpamBot?utm_source=github.com&utm_medium=referral&utm_content=MrRizoel/RiZoeLMultiSpamBot&utm_campaign=Badge_Grade_Settings)
+[![Size](https://img.shields.io/github/repo-size/MrRizoel/RiZoeLMultiSpamBot?style=flat-square&color=green)](https://github.com/MrRizoel/RiZoeLMultiSpamBot/)   
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MrRizoel/RiZoeLMultiSpamBot/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrRizoel/RiZoeLMultiSpamBot)   
 
 # ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ 
 # Deploy Up to 25 Bots in One time 🔥
