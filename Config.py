@@ -1,7 +1,10 @@
+import os
 from os import getenv
+
 from dotenv import load_dotenv
 
-load_dotenv()
+if os.path.exists("local.env"):
+    load_dotenv("local.env")
 
 STRING = getenv("STRING")
 STRING2 = getenv("STRING2")
