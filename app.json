@@ -5,12 +5,12 @@
     "env": {
      "API_ID": {
         "description": "Api ID",
-        "value": "4014305",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Api Hash",
-        "value": "b0cb9e17b2b8bcde3be7161c8bfa6013",
+        "value": "",
         "required": true
       },
       "SUDO": {
