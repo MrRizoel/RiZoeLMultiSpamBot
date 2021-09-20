@@ -599,7 +599,6 @@ async def start_rizoel():
             await khu(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await khu(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
             await khu(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await khu(functions.channels.JoinChannelRequest(channel="@ELITEBOY_GIVEAWAYZ"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -721,7 +720,6 @@ async def start_rizoel():
             await put(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
             await put(functions.channels.JoinChannelRequest(channel="@DragNeelOP"))
             await put(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
-            await put(functions.channels.JoinChannelRequest(channel="@ELITEBOY_GIVEAWAYZ"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
