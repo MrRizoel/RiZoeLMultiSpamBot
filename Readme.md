@@ -19,9 +19,3 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 No Requirement of API ID and API HASH
 
    - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/MrRizoel/RiZoeLSpamBot)](https://replit.com/@RiZoeL/RiZoeL-Spam-bot)
-
-# You can Use these API ID and API HASH
-```
-• API ID = 4014305
-• API HASH = b0cb9e17b2b8bcde3be7161c8bfa6013
-```
