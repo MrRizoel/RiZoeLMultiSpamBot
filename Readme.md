@@ -5,4 +5,4 @@
 - [x] FAST AND STABLE
 - [x] DEPLOY UPTO 20 SPAMBOTS
 
-# [•CLICK HERE FOR NEW REPO](https://github.com/MrRizoel/RiZoeLMultiSpamBot)
+# [•CLICK HERE FOR NEW REPO•](https://github.com/MrRizoel/RiZoeLMultiSpamBot)
